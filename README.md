@@ -1,5 +1,5 @@
 # HakcotberFest2022
-Complete the following tasks given below
+Program collection of python
 - Calculate the multiplication and sum of two numbers in python
 - Print characters from a string that are present at an even index number
 - Remove first n characters from a string
