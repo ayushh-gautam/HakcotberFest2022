@@ -1,5 +1,4 @@
 # HakcotberFest2022
-Program collection of python
 
 Complete all the task given below
 - Calculate the multiplication and sum of two numbers in python
